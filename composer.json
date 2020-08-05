@@ -1,0 +1,25 @@
+{
+  "name": "tianshuizlq/oss-upload",
+  "description": "oss直传", 
+  "keywords": [ 
+    "export",
+    "wordbook"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.0"
+  },
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tianshuizlq",
+      "email": "634652792@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MysqlDict\\": "src/"
+    }
+  }
+}
